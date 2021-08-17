@@ -42,7 +42,7 @@ dentro do console da Twitch, para isso temos esse [guia](https://efficient-sloth
 
 ### Configurando o client_id
 
-Na raiz do projeto, crie um arquivo `.env` e copie o conteúdo do arquivo `.env.exemple` para dentro do `.env`, logo após preencha do valor do `CLIENT_ID`, com o valor do id de cliente que está no console da Twitch.
+Na raiz do projeto, crie um arquivo `.env` e copie o conteúdo do arquivo `.env.example` para dentro do `.env`, logo após preencha do valor do `CLIENT_ID`, com o valor do id de cliente que está no console da Twitch.
 
 ### ⚡️ Iniciando a aplicação
 
