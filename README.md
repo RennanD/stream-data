@@ -34,7 +34,7 @@ git clone https://github.com/RennanD/stream-data.git
 </p>
 
 - [Expo](https://docs.expo.io/bare/exploring-bare-workflow/) como abstração do React Native.
-- [Expo Authetication]() e [AuthSessions]() para criar o login social com a Twicth Tv.
+- [Expo Authetication](https://docs.expo.dev/guides/authentication/) e [AuthSessions](https://docs.expo.dev/versions/latest/sdk/auth-session/) para criar o login social com a Twicth Tv.
 
 ### Criando O Aplicativo na Twitch
 Como estamos utilizando autenticação via OAuth, precisamos configar nosso aplicativo 
